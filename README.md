@@ -1,5 +1,5 @@
 # Computer-Graphics-Project-2DObject
 
-#Dependecy
+# Dependecy
 GLUT Framework
 OpenGL Framework
